@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UFind", "UFind\UFind.csproj", "{1719C6BD-6D84-43DC-A66F-157E08B305E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UFindBL", "UFindBL\UFindBL.csproj", "{845EDCAB-397D-4FD7-A19E-0C5B20A3AFD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1719C6BD-6D84-43DC-A66F-157E08B305E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1719C6BD-6D84-43DC-A66F-157E08B305E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1719C6BD-6D84-43DC-A66F-157E08B305E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1719C6BD-6D84-43DC-A66F-157E08B305E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845EDCAB-397D-4FD7-A19E-0C5B20A3AFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845EDCAB-397D-4FD7-A19E-0C5B20A3AFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845EDCAB-397D-4FD7-A19E-0C5B20A3AFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845EDCAB-397D-4FD7-A19E-0C5B20A3AFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1E3F98F-C697-4F01-B398-EBCB1B885E93}
+	EndGlobalSection
+EndGlobal

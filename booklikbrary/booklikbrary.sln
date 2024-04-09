@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "booklikbrary", "booklikbrary\booklikbrary.csproj", "{9ED3DF4F-4E44-40B8-9693-1FF82C05271F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "booklibraryBL", "..\booklibraryBL\booklibraryBL\booklibraryBL.csproj", "{4ECA63E7-0DD6-4082-9969-69217855961D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ED3DF4F-4E44-40B8-9693-1FF82C05271F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED3DF4F-4E44-40B8-9693-1FF82C05271F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED3DF4F-4E44-40B8-9693-1FF82C05271F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED3DF4F-4E44-40B8-9693-1FF82C05271F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ECA63E7-0DD6-4082-9969-69217855961D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ECA63E7-0DD6-4082-9969-69217855961D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ECA63E7-0DD6-4082-9969-69217855961D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ECA63E7-0DD6-4082-9969-69217855961D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7826607-3D9C-41D0-80B2-33852177FDD1}
+	EndGlobalSection
+EndGlobal
